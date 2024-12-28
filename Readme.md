@@ -1,1 +1,1 @@
-JS Fundamentals
+Java Script
